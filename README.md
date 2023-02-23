@@ -5,3 +5,5 @@ Perplexity measures the complexity of text. Separately, burstiness compares the 
 Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. 
 Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand?"
 
+#Useful Links
+https://www.hama.app/
